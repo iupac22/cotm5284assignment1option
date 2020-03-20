@@ -23,7 +23,7 @@ p{color: black; text-align: justify;}
 nav{ text-decoration: none; text-align: center; 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
     font-size: 30pt; color: white;}
-#pages ul{list-style-type: none;  word-spacing: 50pt;}
+#pages ul{list-style-type: none;  word-spacing: 30pt;}
 #pages li{display: inline;}
 
 .button{
