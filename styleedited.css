@@ -14,7 +14,7 @@
 
 .flex01{background-color: gainsboro;}
 
-body{width: auto;  padding: 5%; padding-top: 2%; background-color: rgb(167, 163, 163);}
+body{width: auto;  padding: 5%; padding-top: 2%; background-color: rgb(230, 220, 220);}
 p{color: black; text-align: justify;}
 
 #mainheader{background-image: url(images/0118.png);background-size: 100%; text-align: center; padding: 1%;}
@@ -23,7 +23,7 @@ p{color: black; text-align: justify;}
 nav{ text-decoration: none; text-align: center; 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
     font-size: 30pt; color: white;}
-#pages ul{list-style-type: none;  word-spacing: 30pt;}
+#pages ul{list-style-type: none;  word-spacing: 10pt;}
 #pages li{display: inline;}
 
 .button{
@@ -56,7 +56,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: none;
     color: black;  text-transform: capitalize; 
-    padding: 5%;
+    padding: 5%; padding-top: 0%;
 }
 
 #story01{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 20pt;}
@@ -71,7 +71,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: none;
     color: black;  text-transform: capitalize; 
-    padding: 5%;
+    padding: 5%;  padding-top: 0%;
 }
 
 #story02{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 20pt;}
@@ -83,7 +83,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: none;
     color: black;  text-transform: capitalize; 
-    padding: 5%;
+    padding: 5%;  padding-top: 0%;
 }
 
 #story03{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 20pt;}
@@ -95,7 +95,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: none;
     color: black;  text-transform: capitalize; 
-    padding: 5%;
+    padding: 5%;  padding-top: 0%;
 }
 
 #story04{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 20pt;}
@@ -107,7 +107,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: none;
     color: black;  text-transform: capitalize; 
-    padding: 5%;
+    padding: 5%;  padding-top: 0%;
 }
 
 #story05{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 20pt;}
@@ -119,7 +119,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: none;
     color: black;  text-transform: capitalize; 
-    padding: 5%;
+    padding: 5%;  padding-top: 0%;
 }
 
 #story06{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 20pt;}
